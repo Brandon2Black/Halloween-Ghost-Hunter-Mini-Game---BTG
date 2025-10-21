@@ -1059,3 +1059,147 @@ Received Import Request.
   path: Assets/Models/Bedroom/Bedside_Table.fbx
   artifactKey: Guid(03826036ee9ac8e4d8ca68be8431cab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Models/Bedroom/Bedside_Table.fbx using Guid(03826036ee9ac8e4d8ca68be8431cab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc239d1bab28e3bfde7cb510863c9b3') in 0.020498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 411.765028 seconds.
+  path: Assets/Models/Characters
+  artifactKey: Guid(0a4baff46de2c5f42a4a87eb698b18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Characters using Guid(0a4baff46de2c5f42a4a87eb698b18ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf0abf1a7fc35b8a2d2cfade06a54c8') in 0.002512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.110170 seconds.
+  path: Assets/Models/Characters/Gargoyle.fbx
+  artifactKey: Guid(d3312d02a690eda48bd6807bf5c78084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Characters/Gargoyle.fbx using Guid(d3312d02a690eda48bd6807bf5c78084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde82556e118afa6c71f311c103b7831') in 0.437568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Models/Characters/Ghost.fbx
+  artifactKey: Guid(563ac48ff656d49478fd93213f4c0eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Characters/Ghost.fbx using Guid(563ac48ff656d49478fd93213f4c0eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778cc5b3ba2f9e3b87d059970f076316') in 0.041233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Models/Characters/JohnLemon.fbx
+  artifactKey: Guid(b44f3940c4940544a8c2c6aee5fa086f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Characters/JohnLemon.fbx using Guid(b44f3940c4940544a8c2c6aee5fa086f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '177bb3d6833c3d8077246fd50da80f43') in 0.313598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 168.922203 seconds.
+  path: Assets/Models/VFX
+  artifactKey: Guid(d3f9f374cca744e42b8c6918cddd2c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/VFX using Guid(d3f9f374cca744e42b8c6918cddd2c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8d7a97d74b76084b5c8d690769a543') in 0.001485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.096748 seconds.
+  path: Assets/Models/VFX/DropSplash.fbx
+  artifactKey: Guid(e6c27adf3e47c024da4e786f5898c785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/VFX/DropSplash.fbx using Guid(e6c27adf3e47c024da4e786f5898c785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8928cb7a66723b84fcc476c3415f083') in 0.013377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.920249 seconds.
+  path: Assets/Models/Diningroom
+  artifactKey: Guid(b5bf3dfa11addd74ab564a42fe14ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom using Guid(b5bf3dfa11addd74ab564a42fe14ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4fc2101e65a22b47dab7889377c41b7') in 0.001981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.080080 seconds.
+  path: Assets/Models/Diningroom/CandleStick.FBX
+  artifactKey: Guid(e22a5b6ca349db446bb2a6d28267d80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom/CandleStick.FBX using Guid(e22a5b6ca349db446bb2a6d28267d80b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fed841199c6bf4ed2df0d81d9697cb') in 0.019488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Models/Diningroom/Chair_01.FBX
+  artifactKey: Guid(636ef07689e5cb94db6f568e6cb15df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom/Chair_01.FBX using Guid(636ef07689e5cb94db6f568e6cb15df1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81c61e01a5b0b066fcdc66e0170e98e') in 0.020045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Models/Diningroom/Table.FBX
+  artifactKey: Guid(2c74f046c01bd7e4591c2e4e2567ca46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom/Table.FBX using Guid(2c74f046c01bd7e4591c2e4e2567ca46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f937184206cb6b2e57398281cc6e23dc') in 0.021847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Models/Diningroom/Monster_Lamp.fbx
+  artifactKey: Guid(a6cb4aad363f3fb419fd659b5facc519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom/Monster_Lamp.fbx using Guid(a6cb4aad363f3fb419fd659b5facc519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8401cffb131ce99fa9202d2b26cdd749') in 0.021310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Models/Diningroom/Rug.FBX
+  artifactKey: Guid(55d6ebb03cd813f40b9a9c476b4e44af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom/Rug.FBX using Guid(55d6ebb03cd813f40b9a9c476b4e44af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585c860fe6e7928242e5fa61af88a487') in 0.021954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Models/Diningroom/Chair_02.FBX
+  artifactKey: Guid(7fbca1f8946feba469173212be97dd0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom/Chair_02.FBX using Guid(7fbca1f8946feba469173212be97dd0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14a0e5080f62b54a73bda08cd0bde85') in 0.014784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Models/Diningroom/Clock.FBX
+  artifactKey: Guid(91811fda631823c49b536c0b67dfec68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Diningroom/Clock.FBX using Guid(91811fda631823c49b536c0b67dfec68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c05305335d376eebcc6f0d5c729cf41c') in 0.019778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.595740 seconds.
+  path: Assets/Animation
+  artifactKey: Guid(1f19bea6983d93d4083ef7ffa4b8bdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(1f19bea6983d93d4083ef7ffa4b8bdfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9187d76b1901c989431d8bb8426d6c1') in 0.001877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.344472 seconds.
+  path: Assets/Gizmos
+  artifactKey: Guid(78109d2a419166245a5419f7798874c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gizmos using Guid(78109d2a419166245a5419f7798874c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7508c2a5fe9fed6740cdff0b6046a2b') in 0.002212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.653014 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(3f0f264239b4ea943937dd9d0fc60963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(3f0f264239b4ea943937dd9d0fc60963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b01e3a74428b555a1019894974b99ae') in 0.001321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 60.045368 seconds.
+  path: Assets/Materials/VFX/DustMote.mat
+  artifactKey: Guid(e27a3e2f84809914fa5bf3a7ac14ce9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/VFX/DustMote.mat using Guid(e27a3e2f84809914fa5bf3a7ac14ce9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076da7ce7b1bdd56a5650e53f53086fd') in 0.041975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.834084 seconds.
+  path: Assets/Materials/VFX/Steam.mat
+  artifactKey: Guid(4cd7f6cf6430b2347803bd0c957fbbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/VFX/Steam.mat using Guid(4cd7f6cf6430b2347803bd0c957fbbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24080dd5cd64f8964c06fa4fe5bdded5') in 0.038513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.254802 seconds.
+  path: Assets/Prefabs/Environment/Corridors
+  artifactKey: Guid(e1d80c9aa6f5bd1479a3ca7af6c5c5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Corridors using Guid(e1d80c9aa6f5bd1479a3ca7af6c5c5a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '924342d57267e488ec899158590b5a05') in 0.001778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.059895 seconds.
+  path: Assets/Prefabs/Environment/Corridors/Door.prefab
+  artifactKey: Guid(141a3c088bae48f42a579375904a411c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Corridors/Door.prefab using Guid(141a3c088bae48f42a579375904a411c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd366404bc6b2c1673ebe7474db92309c') in 0.016587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Prefabs/Environment/Corridors/Rug_Corridor.prefab
+  artifactKey: Guid(d6f7474cae3e0ab43bce6c8505c5db19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Corridors/Rug_Corridor.prefab using Guid(d6f7474cae3e0ab43bce6c8505c5db19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e50aa75d238aff09dd8d9306815b025d') in 0.013623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Prefabs/Environment/Corridors/Light.prefab
+  artifactKey: Guid(fa833c84b0dbee34b84e6427f78feff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Corridors/Light.prefab using Guid(fa833c84b0dbee34b84e6427f78feff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a970f23be245fd5880600fe28a5b48c') in 0.015236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Prefabs/Environment/Corridors/Post.prefab
+  artifactKey: Guid(32d2a8958697bb644913bfaedcc8df68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Corridors/Post.prefab using Guid(32d2a8958697bb644913bfaedcc8df68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bcdee1b5c258666bc511adc43fdb749') in 0.014303 seconds 
