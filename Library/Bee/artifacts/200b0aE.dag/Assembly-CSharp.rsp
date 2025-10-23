@@ -322,6 +322,7 @@
 "Assets/Scripts/FollowPlayer.cs"
 "Assets/Scripts/LightFlicker.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/SpawnManager.cs"
 -langversion:8.0
 
 /deterministic

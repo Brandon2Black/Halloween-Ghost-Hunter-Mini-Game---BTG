@@ -667,3 +667,29 @@ System memory in use after: 252.8 MB.
 Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3206.
 Total: 2.204892 ms (FindLiveObjects: 0.209185 ms CreateObjectMapping: 0.081983 ms MarkObjects: 1.864447 ms  DeleteObjects: 0.048665 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 418.223920 seconds.
+  path: Assets/Scripts/SpawnManager.cs
+  artifactKey: Guid(bbd450bc697fa4cb6a2859af7bb7da1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpawnManager.cs using Guid(bbd450bc697fa4cb6a2859af7bb7da1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4618fafbecd0f296ba451382173ec5ee') in 0.062163 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.042 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 252.9 MB.
+System memory in use after: 253.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3210.
+Total: 1.897036 ms (FindLiveObjects: 0.252184 ms CreateObjectMapping: 0.103629 ms MarkObjects: 1.485578 ms  DeleteObjects: 0.054974 ms)
+
