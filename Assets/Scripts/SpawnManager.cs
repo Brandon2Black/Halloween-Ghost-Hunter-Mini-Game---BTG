@@ -6,10 +6,16 @@ public class SpawnManager : MonoBehaviour
 {
 
     public GameObject[] ghostPrefabs;
+
+    public GameObject Pos1;
+    public GameObject Pos2;
+    public GameObject Pos3;
+
     public int ghostIndex;
 
     private float spawnRangeX = 20;
     private float spawnPosZ = 20;
+    
 
     private float startDelay = 2;
     private float spawnInterval = 0.5f;
