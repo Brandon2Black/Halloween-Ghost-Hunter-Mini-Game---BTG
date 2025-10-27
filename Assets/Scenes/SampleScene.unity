@@ -733,7 +733,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ghostPrefabs:
-  - {fileID: 100006, guid: 82a877a0f8efc40799e8e482692a44d1, type: 3}
+  - {fileID: 3858544194767388890, guid: 0fc0b7df4b41348949b8d0ed250cc835, type: 3}
   - {fileID: 7927722543594176308, guid: 92548f6564e2b4fa9b38081529af43ab, type: 3}
   - {fileID: 3858544194767388890, guid: 9eb36b223d19d477890e043f782e7137, type: 3}
   ghostIndex: 0
