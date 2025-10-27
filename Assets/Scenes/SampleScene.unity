@@ -736,10 +736,12 @@ MonoBehaviour:
   - {fileID: 100006, guid: 563ac48ff656d49478fd93213f4c0eb8, type: 3}
   - {fileID: 7927722543594176308, guid: 92548f6564e2b4fa9b38081529af43ab, type: 3}
   - {fileID: 3858544194767388890, guid: 9eb36b223d19d477890e043f782e7137, type: 3}
-  Pos1: {fileID: 963889135}
-  Pos2: {fileID: 596595104}
-  Pos3: {fileID: 1153885868}
-  ghostIndex: 0
+  ghostIndex: 3
+  spawnIndex: 0
+  spawnPoses:
+  - {fileID: 963889135}
+  - {fileID: 596595104}
+  - {fileID: 1153885868}
 --- !u!1001 &1932322622
 PrefabInstance:
   m_ObjectHideFlags: 0

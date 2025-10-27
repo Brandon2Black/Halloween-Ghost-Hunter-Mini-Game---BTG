@@ -7,11 +7,9 @@ public class SpawnManager : MonoBehaviour
 
     public GameObject[] ghostPrefabs;
 
-    public GameObject Pos1;
-    public GameObject Pos2;
-    public GameObject Pos3;
 
     public int ghostIndex;
+    public int spawnIndex;
 
     private float spawnRangeX = 20;
     private float spawnPosZ = 20;
@@ -19,6 +17,9 @@ public class SpawnManager : MonoBehaviour
 
     private float startDelay = 2;
     private float spawnInterval = 0.5f;
+
+    public GameObject[] spawnPoses;
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -34,9 +35,12 @@ public class SpawnManager : MonoBehaviour
 
     void SpawnRandomGhost()
     {
+
+
           Vector3 spawnPos = new Vector3(Random.Range(-spawnRangeX, spawnRangeX),0,spawnPosZ);
            int ghostIndex = Random.Range(0, ghostPrefabs.Length);
-      Instantiate(ghostPrefabs[ghostIndex], spawnPos, ghostPrefabs[ghostIndex].transform.rotation);
+           int spawnIndex = Random.Range(0, spawnPoses.Length);
+      Instantiate(ghostPrefabs[ghostIndex], spawnPoses[spawnIndex].transform.position, ghostPrefabs[ghostIndex].transform.rotation);
     }
 }
 
