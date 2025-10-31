@@ -263,7 +263,7 @@ MonoBehaviour:
   horizontalInput: 0
   forwardInput: 0
   Speed: 2
-  projectilePrefab: {fileID: 9041659859136530509, guid: cee1f52f46b704527a2e7326e35fcd45, type: 3}
+  projectilePrefab: {fileID: 3432953549618258831, guid: 6def92f88f88444c5ba4ff4741e670de, type: 3}
 --- !u!65 &678909735
 BoxCollider:
   m_ObjectHideFlags: 0
