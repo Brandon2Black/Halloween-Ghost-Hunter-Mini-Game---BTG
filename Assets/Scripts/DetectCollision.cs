@@ -18,8 +18,13 @@ public class DetectCollision : MonoBehaviour
 
     void OnTriggerEnter(Collider other) 
     {
+
+        if (other.tag != "Player")
+        {
         Destroy(gameObject);
         Destroy(other.gameObject);
+        }
+    
     }
 }
 
